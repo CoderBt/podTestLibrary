@@ -35,6 +35,10 @@
     
     NSLog(@"123123");
     
+    NSLog(@"123123");
+    
+    NSLog(@"123123");
+    
 }
 
 - (void)viewWillAppear:(BOOL)animated {
